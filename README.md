@@ -1,5 +1,3 @@
-Here’s a `README.md` file describing the dataset you uploaded:
-
 ---
 
 # Breast Cancer Wisconsin (Diagnostic) Dataset
@@ -63,5 +61,3 @@ Original data source: UCI Machine Learning Repository
 **Link**: [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 ---
-
-Would you like me to save this as a downloadable `README.md` file or customize it for a specific project (e.g., a machine learning model)?
