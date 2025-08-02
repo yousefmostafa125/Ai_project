@@ -19,16 +19,18 @@ This project leverages the **Breast Cancer Wisconsin (Diagnostic) Dataset** to d
 
 Each record contains measurements computed from FNA images, organized into 10 primary categories — each with **mean**, **standard error (`_se`)**, and **worst-case (`_worst`)** variants:
 
-- **Radius**: Distance from center to edge
-- **Texture**: Variation in gray-scale intensity
-- **Perimeter**: Total length around the cell
-- **Area**: Size of the cell
-- **Smoothness**: Local variation in radius
-- **Compactness**: `(perimeter² / area - 1.0)`
-- **Concavity**: Depth of concave portions
-- **Concave Points**: Count of concave portions
-- **Symmetry**: Symmetry of the cell shape
-- **Fractal Dimension**: "Roughness" of the boundary
+| Feature     | Description |
+|-------------|-------------|
+| Radius      | Distance from center to edge |
+| Texture     | Variation in gray-scale intensity |
+| Perimeter   | Total length around the cell |
+| Area        | Size of the cell |
+| Smoothness  | Local variation in radius |
+| Compactness          | `(perimeter² / area - 1.0)` |
+| Concavity         | Depth of concave portions |
+| Concave Points    | Count of concave portions |
+| Symmetry    | Symmetry of the cell shape |
+| Fractal Dimension    | "Roughness" of the boundary |
 
 > Example features: `radius_mean`, `texture_worst`, `concavity_se`, etc.
 
