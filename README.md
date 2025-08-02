@@ -69,7 +69,7 @@ Each record contains measurements computed from FNA images, organized into 10 pr
 
 - `concave_points_worst`, `area_worst`, and `concavity_mean` were among the **most predictive features**
 - Models achieved **high accuracy** using even a subset of features
-- Logistic Regression performed well despite dataset imbalance
+- DecisionTree performed well despite dataset imbalance
 
 ---
 
