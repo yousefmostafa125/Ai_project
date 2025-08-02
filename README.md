@@ -58,10 +58,10 @@ Each record contains measurements computed from FNA images, organized into 10 pr
 
 | Metric     | Value |
 |------------|-------|
-| Accuracy   | 0.97  |
-| Precision  | 0.96  |
-| Recall     | 0.97  |
-| F1 Score   | 0.96  |
+| Accuracy   | 0.91  |
+| Precision  | 0.00  |
+| Recall     | 0.00  |
+| F1 Score   | 0.00 |
 
 > Note: Results may vary based on model choice and feature selection.
 
